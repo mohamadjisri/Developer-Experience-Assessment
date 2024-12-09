@@ -106,9 +106,11 @@ except requests.exceptions.HTTPError as e:
 - `hashlib`
 - `json`
 
+## Demo
+A quick demo on testing the SDK is available in the [Demo Folder](./demo/).
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
 ## License
 This project is licensed under the APACHE License. See the LICENSE file for details.
-
