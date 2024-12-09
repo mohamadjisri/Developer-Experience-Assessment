@@ -10,7 +10,7 @@
 ## Installation
 Install the package via pip:
 ```bash
-pip install simplemsg
+pip install https://github.com/mohamadjisri/Developer-Experience-Assessment/archive/refs/heads/main.zip
 ```
 
 ## Getting Started
