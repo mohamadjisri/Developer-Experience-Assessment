@@ -1,5 +1,10 @@
 # SimpleMsg SDK
 
+![Apache](https://img.shields.io/badge/server-Apache-brightgreen)
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![Flask](https://img.shields.io/badge/framework-Flask-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 `SimpleMsg` is a Python SDK designed to simplify interaction with messaging APIs. It provides an easy-to-use interface for managing contacts, sending and retrieving messages, and verifying webhook signatures.
 
 ## Features
